@@ -5,7 +5,7 @@
 - Chauhan Rashi
 - Dang Xuan
 ## Contents:
-- [Introduction](https://github.com/XUANDANG1109/FLIGHT-GAME-PROJECT/edit/main/README.md)
+- [Introduction](https://github.com/XUANDANG1109/FLIGHT-GAME-PROJECT)
 - Vision
 - Functional Requirements
 - Quality requirements
