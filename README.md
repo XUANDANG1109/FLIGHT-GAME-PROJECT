@@ -5,7 +5,7 @@
 - Chauhan Rashi
 - Dang Xuan
 ## Contents:
-- Introduction
+- [Introduction](https://github.com/XUANDANG1109/FLIGHT-GAME-PROJECT/edit/main/README.md)
 - Vision
 - Functional Requirements
 - Quality requirements
@@ -18,6 +18,8 @@ A flight game project built using Python, Database SQL
 - The aim of Flight game is to create a game that is entertaining, fun, and and a little bit of your luck. 
 
 ### Story:
+a girl traveling alone to a place of her choice. While traveling, she unfortunately lost contact with her boyfriend while in transit. The boyfriend only knows where she is traveling and does not know where she will transit. To find out where she went, the boyfriend needed to guess the airport she was transiting at. The boyfriend only has 3 chances to guess where the girl has transited. After 3 wrong guesses, the couple will not see each other forever, they are not destined for each other. If the guess is correct, the ending will be happy, the couple will get married and have children.... 
+
 
 
 ### Flowchart:
