@@ -45,22 +45,20 @@ def instructions():
 main_page()
 
 
-def dest_country():
-    countries =[]
-    sql = "SELECT country, airport FROM all_locations"
+def print_list(airport):
+    #sql = "SELECT country, airport FROM all_locations"
+    #sql += " WHERE country='" + airport + "'"
     cursor = connection.cursor()
-    cursor.execute(sql)
+    cursor.execute(" SELECT country, airport, icao FROM all_locations")
     result = cursor.fetchall()
     if cursor.rowcount > 0:
-        for row in result:
-            countries.append(row[0])
-            countries. append(row[1])
-            print(f" {row[1]} in {row[0]}")
+        for row in range(1):
+            print(tabulate(result, tablefmt="fancy_grid"))
+    print("Here is the list of available destination countries")
+    return
 
-    return countries
-
-print("THE COUNTRIES ARE-\n")
-dest_country()
+airport = ("Here is the list of available destination countries.")
+print_list(airport)
 
 def dest(airport):
     sql = "SELECT country, airport FROM all_locations"
