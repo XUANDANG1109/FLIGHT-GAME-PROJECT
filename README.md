@@ -44,9 +44,9 @@ Choose your favorite country and fly around the beautiful big open world and com
 Listed below are all the funtctions that were created for the game:
 
 Menu:
--main_page
+```-main_page
 -instructions
-
+```
 Decisions:
 -dest
 
