@@ -6,9 +6,9 @@
 - Dang Xuan
 ## Contents:
 - [Introduction](https://github.com/XUANDANG1109/FLIGHT-GAME-PROJECT#introduction)
-- Vision
-- Functional Requirements
-- Quality requirements
+- [Vision](https://github.com/XUANDANG1109/FLIGHT-GAME-PROJECT#Vision)
+- [Functional Requirements](https://github.com/XUANDANG1109/FLIGHT-GAME-PROJECT#Functional Requirements)
+- [Quality requirements](https://github.com/XUANDANG1109/FLIGHT-GAME-PROJECT#Quality requirements)
 
 ### Introduction:
 A flight game project built using Python, Database SQL
