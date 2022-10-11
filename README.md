@@ -17,6 +17,9 @@ A flight game project built using Python, Database SQL
 - The world at your fingertips. It is a game, Let's test your luck with this really simple game!.
 - The aim of Flight game is to create a game that is entertaining, fun, and and a little bit of your luck. 
 
+### Story:
+
+
 ### Flowchart:
 ![image](https://user-images.githubusercontent.com/102602490/195088791-1e25afd9-b39d-40c0-ae7d-4d237ad57ec8.png)
 
