@@ -1,5 +1,5 @@
 # Project
-# Flight Game Project
+# Final Destination Game
 ## Members:
 - Hallikas Jenni
 - Chauhan Rashi
@@ -11,15 +11,14 @@
 - [Quality Requirements](https://github.com/XUANDANG1109/FLIGHT-GAME-PROJECT#quality-requirements)
 
 ### Introduction:
-A flight game project built using Python, Database SQL
+Final destination game project built using Python, Database SQL.
 
 ### Vision:
 - The world at your fingertips. It is a game, Let's test your luck with this really simple game!.
-- The aim of Flight game is to create a game that is entertaining, fun, and and a little bit of your luck. 
+- The aim of game is to create a game that is entertaining, fun, and a little bit of your luck. 
 
 ### Story:
-a girl traveling alone to a place of her choice. While traveling, she unfortunately lost contact with her boyfriend while in transit. The boyfriend only knows where she is traveling and does not know where she will transit. To find out where she went, the boyfriend needed to guess the airport she was transiting at. The boyfriend only has 3 chances to guess where the girl has transited. After 3 wrong guesses, the couple will not see each other forever, they are not destined for each other. If the guess is correct, the ending will be happy, the couple will get married and have children.... 
-
+The player is a guy who has a very beautiful girlfriend. Both live in Finland. The guy had to go to work, so she made the decision to travel alone to the destination she wanted to go. Unfortunately, while traveling, he lost contact with his girlfriend while in transit. The boyfriend only knows where she wants to travel, but he does not know where she will transit. In order to determine where she went, the boyfriend needed to guess the airport she was transiting through. The boyfriend has only three chances to figure out where the girl has traveled. After 3 wrong guesses, the couple will not see each other forever 💔, they are not destined for each other. If the guess is correct, the ending will be happy, the couple will get married 💕💕 and have children.... 
 
 
 ### Flowchart:
@@ -27,8 +26,8 @@ a girl traveling alone to a place of her choice. While traveling, she unfortunat
 
 
 #### How the game works:
-- Flight game - Fun game to pass time !
-- Flight game is a single player game where players can fly from Finland to different cities and guess where you will be randomly transiting.
+- Final destination game - Fun game to pass time !
+- A game is a single player game where players can fly from Finland to different cities and guess where you will be randomly transiting.
 - Players start in Helsinki, Finland. They will choose a destination where they want to go. Then, they will guess where you will be transiting. This place is generated at random. The mission is that players need to guess where the transit matches the system's transit. Players have 3 attempts to guess. After 3 failed attempts, the game is over !!!
 
 The user is able to do two things:
@@ -36,10 +35,26 @@ The user is able to do two things:
 - Choose if they wish to transit they are currently in.
 
 #### Setting:
-Flight game is set in present day.
+Final destination game is set in present day.
 
 ### Functional Requirements:
-Choose your favorite country and fly around the beautiful big open world and complete challenging missions in this realistic flight game. The success of a player is is a stroke of luck.
+Choose your favorite country and fly around the beautiful big open world and complete challenging missions in this realistic game. The success of a player is is a stroke of luck.
+
+#### Functions:
+Listed below are all the funtctions that were created for the game:
+
+Menu:
+-main_page
+-instructions
+
+Decisions:
+-dest
+
+Database:
+-print_list
+-dest
+-connecting
+-ran_connect
 
 ### Quality requirements:
 We created a new database from the existing one and removed a lot of unnecessary information. This made the database faster. All functions created were run through the PyCharm project. 
