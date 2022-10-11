@@ -44,17 +44,22 @@ Choose your favorite country and fly around the beautiful big open world and com
 Listed below are all the funtctions that were created for the game:
 
 Menu:
-```-main_page
--instructions
+```
+- main_page
+- instructions
 ```
 Decisions:
+```
 -dest
+```
 
 Database:
+```
 -print_list
 -dest
 -connecting
 -ran_connect
+```
 
 ### Quality requirements:
 We created a new database from the existing one and removed a lot of unnecessary information. This made the database faster. All functions created were run through the PyCharm project. 
