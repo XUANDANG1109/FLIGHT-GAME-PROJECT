@@ -105,7 +105,7 @@ def ran_connect(ran):
 
 guess = input("\n Guess the connecting airport country: ")
 correct = ran_connect(guess)
-count= 0
+count = 0
 while guess != correct and count <2:
     print("sorry that's a wrong guess")
     guess = input("Guess the connecting airport: ")
