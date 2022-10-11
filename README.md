@@ -27,7 +27,11 @@ A flight game project built using Python, Database SQL
 #### How the game works:
 - Flight game - Fun game to pass time !
 - Flight game is a single player game where players can fly from Finland to different cities and guess where you will be randomly transiting.
-- Players will choose a destination where they want to go. Then, they will guess where you will be transiting. The mission is that players need to guess where the transit matches the system's transit. Players have 3 attempts to guess. After 3 failed attempts, the game is over !!!
+- Players start in Helsinki, Finland. They will choose a destination where they want to go. Then, they will guess where you will be transiting. This place is generated at random. The mission is that players need to guess where the transit matches the system's transit. Players have 3 attempts to guess. After 3 failed attempts, the game is over !!!
+
+The user is able to do two things:
+- Choose where they travel to
+- Choose if they wish to transit they are currently in.
 
 #### Setting:
 Flight game is set in present day.
