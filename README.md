@@ -50,15 +50,15 @@ Menu:
 ```
 Decisions:
 ```
--dest
+- dest
 ```
 
 Database:
 ```
--print_list
--dest
--connecting
--ran_connect
+- print_list
+- dest
+- connecting
+- ran_connect
 ```
 
 ### Quality requirements:
