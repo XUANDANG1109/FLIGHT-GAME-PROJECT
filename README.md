@@ -61,5 +61,15 @@ Database:
 - ran_connect
 ```
 
+Prints:
+```
+-print_instructions
+-print_play
+-print_exit the game
+-print_game starts
+-print list of destination countries
+-print list of connecting airports
+```
+
 ### Quality requirements:
 We created a new database from the existing one and removed a lot of unnecessary information. This made the database faster. All functions created were run through the PyCharm project. 
