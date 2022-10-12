@@ -49,11 +49,11 @@ Database: airport, all_locations, connections, country
 - connecting
 - ran_connect
 ```
-| UAE 1 Afghanistan | Dubai International airport   | OMBD| Cột 4 |
+| UAE  | Dubai International airport   | OMBD| 
 |--------------|-------|------|-------|
-| Hàng 2 | 2 x 1 | 2 x 2 | 2 x 3 | 2 x 4 |
-| Hàng 3 | 3 x 1 | 3 x 2 | 3 x 3 | 3 x 4 |
-| Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |
+| Afghanistan | Kabul International airport | OAKB | 
+| Australia|Canberra International airport  | YSCB |
+| Belgium | Brussels airport | EBCI| 
 
 Menu:
 ```
