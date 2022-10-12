@@ -43,7 +43,7 @@ Choose your favorite country and fly around the beautiful big open world and com
 #### Functions:
 Listed below are all the funtctions that were created for the game:
 
-Database:
+Database: airport, all_locations, connections, country,  
 ```
 - dest
 - connecting
