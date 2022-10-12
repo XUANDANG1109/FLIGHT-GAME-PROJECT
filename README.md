@@ -51,9 +51,42 @@ Database: airport, all_locations, connections, country
 ```
 | 1 |UAE   |Dubai International airport  | OMBD |
 |--------------|-------|------|-------|
-| 2 |  Afghanistan   | Kabul International airport | OAKB |
-| Hàng 3 | 3 x 1 | 3 x 2 | 3 x 3 | 3 x 4 |
-| Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |
+| 2 |Afghanistan   | Kabul International airport | OAKB |
+| 3 |Australia  | Canberra International airport | YSCB |
+| 4 | Belgium | Brussels airport | EBCI |
+| 5 | Brazil | Brasilia International airport  | SBBR|
+| 6 |Canada |  Ottawa Macdonald-Cartier International airport  | CYOW |
+| 7 | Switzerland | Bern International airport | LSZB |
+| 8 | Turkey | Ankara Esenboga International airport | LTAC |
+| 9 | China | Beijing Capital International airport     | ZBAA |
+| 10 | Germany  | Berlin Brandenburg International airport    | EDBN |
+| 11| Denmark | Copenhagen Kastrup International airport  | EKCH |
+| 12 | Egypt | Cairo International airport   | HECA |
+| 13 | France  | Paris Charles de Gaulle International airport | LFPG |
+| 14 | United Kingdom| 4 x 2 | London Heathrow International airport  | EGCC |
+| 15 | Greece | Athens Eleftherios Venizelos International airport  | LGAV |
+| 16 | China | 4 x 2 | Hong Kong International airport | VHHH |
+| 17| Indonesia | Jakarta Soekarno-Hatta International airport  | WIII |
+| 18 | India | New Delhi Indira Gandhi International airport   | VIDP |
+| 19| Japan | 3 x 2 | Tokyo Haneda International airport   | RJTT |
+| 20 | Italy | 4 x 2 | Rome Leonardo da Vinci International airport  |LIRF |
+| 21 | Kenya | 3 x 2 | Nairobi Jomo Kenyatta International airport | HKJK |
+| 22| South Korea | 4 x 2 |Seoul Incheon International airport | RKSI |
+| 23 | Mexico | Mexico City International airport    | MMMX |
+| 24 | Nigeria | 3 x 2 | Abuja Nnamdi Azikiwe International airport        | DNAA |
+| 25| Netherlands | 4 x 2 | Amsterdam Airport Schiphol  |EHAM |
+| 26 | Norway | 3 x 2 | Oslo Gardermoen Airport   | ENGM |
+| 27| Qatar | 4 x 2 |Doha Hamad International Airport  | OTBD |
+| 28 | Saudi Arabia | Riyadh King Khalid International Airport    | OERK |
+| 29 | Russia | 3 x 2 |Moscow Sheremetyevo A.S. Pushkin international airport    | UUEF |
+| 30 | Sweden | 4 x 2 | Stockholm Arlanda International airport   |ESSH |
+| 31 | Singapore | 3 x 2 | Singapore Changi Airport    | WSSS |
+| 32 | USA | 4 x 2 |Washington Dulles International Airport  | KIAD |
+| 33| Thailand | 4 x 2 | Bangkok Suvarnabhumi Airport  |VTBS |
+| 34 | Chile | 3 x 2 | Santiago de Chile Arturo Merino Benítez International Airport     | SCEL |
+
+
+
 
 
 
