@@ -1,23 +1,24 @@
 # Project
-# Flight Game Project
+# Final Destination Game
 ## Members:
 - Hallikas Jenni
 - Chauhan Rashi
 - Dang Xuan
 ## Contents:
-- Introduction
-- Vision
-- Functional Requirements
-- Quality requirements
+- [Introduction](https://github.com/XUANDANG1109/FLIGHT-GAME-PROJECT#introduction)
+- [Vision](https://github.com/XUANDANG1109/FLIGHT-GAME-PROJECT#Vision)
+- [Functional Requirements](https://github.com/XUANDANG1109/FLIGHT-GAME-PROJECT#functional-requirements)
+- [Quality Requirements](https://github.com/XUANDANG1109/FLIGHT-GAME-PROJECT#quality-requirements)
 
 ### Introduction:
-A flight game project built using Python, Database SQL
+Final destination game project built using Python, Database SQL.
 
 ### Vision:
 - The world at your fingertips. It is a game, Let's test your luck with this really simple game!.
-- The aim of Flight game is to create a game that is entertaining, fun, and and a little bit of your luck. 
+- The aim of game is to create a game that is entertaining, fun, and a little bit of your luck. 
 
 ### Story:
+The player is a guy who has a very beautiful girlfriend. Both live in Finland. The guy had to go to work, so she made the decision to travel alone to the destination she wanted to go. Unfortunately, while traveling, he lost contact with his girlfriend while in transit. The boyfriend only knows where she wants to travel, but he does not know where she will transit. In order to determine where she went, the boyfriend needed to guess the airport she was transiting through. The boyfriend has only three chances to figure out where the girl has traveled. After 3 wrong guesses, the couple will not see each other forever 💔, they are not destined for each other. If the guess is correct, the ending will be happy, the couple will get married 💕💕 and have children.... 
 
 
 ### Flowchart:
@@ -25,8 +26,8 @@ A flight game project built using Python, Database SQL
 
 
 #### How the game works:
-- Flight game - Fun game to pass time !
-- Flight game is a single player game where players can fly from Finland to different cities and guess where you will be randomly transiting.
+- Final destination game - Fun game to pass time !
+- A game is a single player game where players can fly from Finland to different cities and guess where you will be randomly transiting.
 - Players start in Helsinki, Finland. They will choose a destination where they want to go. Then, they will guess where you will be transiting. This place is generated at random. The mission is that players need to guess where the transit matches the system's transit. Players have 3 attempts to guess. After 3 failed attempts, the game is over !!!
 
 The user is able to do two things:
@@ -34,10 +35,77 @@ The user is able to do two things:
 - Choose if they wish to transit they are currently in.
 
 #### Setting:
-Flight game is set in present day.
+Final destination game is set in present day.
 
 ### Functional Requirements:
-Choose your favorite country and fly around the beautiful big open world and complete challenging missions in this realistic flight game. The success of a player is is a stroke of luck.
+Choose your favorite country and fly around the beautiful big open world and complete challenging missions in this realistic game. The success of a player is is a stroke of luck.
+
+#### Functions:
+Listed below are all the funtctions that were created for the game:
+
+Database: airport, all_locations, connections, country
+```
+- dest
+- connecting
+- ran_connect
+```
+| 1 |UAE   |Dubai International airport  | OMBD |
+|--------------|-------|------|-------|
+| 2 |Afghanistan   | Kabul International airport | OAKB |
+| 3 |Australia  | Canberra International airport | YSCB |
+| 4 | Belgium | Brussels airport | EBCI |
+| 5 | Brazil | Brasilia International airport  | SBBR|
+| 6 |Canada |  Ottawa Macdonald-Cartier International airport  | CYOW |
+| 7 | Switzerland | Bern International airport | LSZB |
+| 8 | Turkey | Ankara Esenboga International airport | LTAC |
+| 9 | China | Beijing Capital International airport     | ZBAA |
+| 10 | Germany  | Berlin Brandenburg International airport    | EDBN |
+| 11 | Denmark | Copenhagen Kastrup International airport  | EKCH |
+| 12 | Egypt | Cairo International airport   | HECA |
+| 13 | France  | Paris Charles de Gaulle International airport | LFPG |
+| 14 | United Kingdom| London Heathrow International airport  | EGCC |
+| 15 | Greece | Athens Eleftherios Venizelos International airport  | LGAV |
+| 16 | China  | Hong Kong International airport | VHHH |
+| 17 | Indonesia | Jakarta Soekarno-Hatta International airport  | WIII |
+| 18 | India | New Delhi Indira Gandhi International airport   | VIDP |
+| 19 | Japan  | Tokyo Haneda International airport   | RJTT |
+| 20 | Italy | Rome Leonardo da Vinci International airport  |LIRF |
+| 21 | Kenya  | Nairobi Jomo Kenyatta International airport | HKJK |
+| 22 | South Korea  |Seoul Incheon International airport | RKSI |
+| 23 | Mexico | Mexico City International airport    | MMMX |
+| 24 | Nigeria  | Abuja Nnamdi Azikiwe International airport        | DNAA |
+| 25 | Netherlands  | Amsterdam Airport Schiphol  |EHAM |
+| 26 | Norway  | Oslo Gardermoen Airport   | ENGM |
+| 27 | Qatar  |Doha Hamad International Airport  | OTBD |
+| 28 | Saudi Arabia | Riyadh King Khalid International Airport    | OERK |
+| 29 | Russia  |Moscow Sheremetyevo A.S. Pushkin international airport    | UUEF |
+| 30 | Sweden  | Stockholm Arlanda International airport   |ESSH |
+| 31 | Singapore  | Singapore Changi Airport    | WSSS |
+| 32 | USA  |Washington Dulles International Airport  | KIAD |
+| 33 | Thailand  | Bangkok Suvarnabhumi Airport  |VTBS |
+| 34 | Chile  | Santiago de Chile Arturo Merino Benítez International Airport     | SCEL |
+
+
+
+Menu:
+```
+- main_page
+- instructions
+```
+Decisions:
+```
+- dest
+```
+
+Prints:
+```
+-print_instructions
+-print_play
+-print_exit the game
+-print_game starts
+-print list of destination countries
+-print list of connecting airports
+```
 
 ### Quality requirements:
 We created a new database from the existing one and removed a lot of unnecessary information. This made the database faster. All functions created were run through the PyCharm project. 
