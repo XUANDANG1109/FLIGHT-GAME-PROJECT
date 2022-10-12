@@ -60,29 +60,29 @@ Database: airport, all_locations, connections, country
 | 8 | Turkey | Ankara Esenboga International airport | LTAC |
 | 9 | China | Beijing Capital International airport     | ZBAA |
 | 10 | Germany  | Berlin Brandenburg International airport    | EDBN |
-| 11| Denmark | Copenhagen Kastrup International airport  | EKCH |
+| 11 | Denmark | Copenhagen Kastrup International airport  | EKCH |
 | 12 | Egypt | Cairo International airport   | HECA |
 | 13 | France  | Paris Charles de Gaulle International airport | LFPG |
 | 14 | United Kingdom| London Heathrow International airport  | EGCC |
 | 15 | Greece | Athens Eleftherios Venizelos International airport  | LGAV |
 | 16 | China  | Hong Kong International airport | VHHH |
-| 17| Indonesia | Jakarta Soekarno-Hatta International airport  | WIII |
+| 17 | Indonesia | Jakarta Soekarno-Hatta International airport  | WIII |
 | 18 | India | New Delhi Indira Gandhi International airport   | VIDP |
-| 19| Japan  | Tokyo Haneda International airport   | RJTT |
+| 19 | Japan  | Tokyo Haneda International airport   | RJTT |
 | 20 | Italy | Rome Leonardo da Vinci International airport  |LIRF |
 | 21 | Kenya  | Nairobi Jomo Kenyatta International airport | HKJK |
-| 22| South Korea  |Seoul Incheon International airport | RKSI |
+| 22 | South Korea  |Seoul Incheon International airport | RKSI |
 | 23 | Mexico | Mexico City International airport    | MMMX |
 | 24 | Nigeria  | Abuja Nnamdi Azikiwe International airport        | DNAA |
-| 25| Netherlands  | Amsterdam Airport Schiphol  |EHAM |
+| 25 | Netherlands  | Amsterdam Airport Schiphol  |EHAM |
 | 26 | Norway  | Oslo Gardermoen Airport   | ENGM |
-| 27| Qatar  |Doha Hamad International Airport  | OTBD |
+| 27 | Qatar  |Doha Hamad International Airport  | OTBD |
 | 28 | Saudi Arabia | Riyadh King Khalid International Airport    | OERK |
 | 29 | Russia  |Moscow Sheremetyevo A.S. Pushkin international airport    | UUEF |
 | 30 | Sweden  | Stockholm Arlanda International airport   |ESSH |
 | 31 | Singapore  | Singapore Changi Airport    | WSSS |
 | 32 | USA  |Washington Dulles International Airport  | KIAD |
-| 33| Thailand  | Bangkok Suvarnabhumi Airport  |VTBS |
+| 33 | Thailand  | Bangkok Suvarnabhumi Airport  |VTBS |
 | 34 | Chile  | Santiago de Chile Arturo Merino Benítez International Airport     | SCEL |
 
 
