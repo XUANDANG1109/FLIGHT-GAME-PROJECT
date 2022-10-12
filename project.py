@@ -1,6 +1,8 @@
 import random
-
 import mysql.connector
+from tabulate import tabulate
+import time
+
 
 connection = mysql.connector.connect(
          host='mysql.metropolia.fi',
@@ -12,10 +14,21 @@ connection = mysql.connector.connect(
 )
 
 
-print('Welcome to Flight Game')
-from tabulate import tabulate
+print('Welcome to flight game!')
 player_name = input("Please write your name here: ")
 print(f"Welcome to play {player_name}!")
+time.sleep(3)
+print("Once upon a time, there was a girl travelling around the world.")
+time.sleep(3)
+print("This girl had a beautiful relationship with a boy who she would meet in her destination country.")
+time.sleep(3)
+print("Unfortunately, she lost contact with him while traveling. :(")
+time.sleep(3)
+print("Now, the boyfriend only knows her destination but has to guess where she is transiting. He has 3 ONLY chances...")
+time.sleep(3)
+print("If he doesn't guess right, THEY WILL NEVER SEE EACH OTHER AGAIN! ")
+time.sleep(3)
+print("And if he guesses right, they live happily ever after. :)")
 
 def main_page():
     while True:
@@ -35,7 +48,10 @@ def main_page():
 
 
 def instructions():
-    print("1. You will be given two lists of airports: all available airports and all available transit countries\n2. You have to choose a destination country.\n3. You will guess the right transit country for the destination you have chosen\n4. If you guess right, you will win If you guess wrong you will have 3 attempts more")
+    print("1. You will be given two lists of airports: all available airports and all available transit countries\n"
+          "2. You have to choose a destination country.\n"
+          "3. You will guess the right transit country for the destination you have chosen\n"
+          "4. If you guess right, you will win If you guess wrong you will have 3 attempts more")
     inputInstructions = input("Press enter to go back to main page.")
     if inputInstructions == "":
         main_page()
@@ -57,8 +73,10 @@ def print_list(airport):
     print("Here is the list of available destination countries")
     return
 
-airport = ("Here is the list of available destination countries.")
+
+airport = "Here is the list of available destination countries."
 print_list(airport)
+
 
 def dest(airport):
     sql = "SELECT country, airport FROM all_locations"
@@ -72,7 +90,7 @@ def dest(airport):
     return
 
 
-airport = input("\n Please enter the destination you want to visit: ")
+airport = input("\n Please enter the destination country: ")
 dest(airport)
 
 
@@ -93,9 +111,10 @@ def connecting():
 print("\n The list of connecting airports are: \n")
 connecting()
 
+
 def ran_connect(ran):
     sql = "SELECT country FROM connections"
-    ran= random.choice(sql)
+    ran = random.choice(sql)
     cursor = connection.cursor()
     cursor.execute(sql)
     result = cursor.fetchall()
@@ -105,12 +124,15 @@ def ran_connect(ran):
 
 guess = input("\n Guess the connecting airport country: ")
 correct = ran_connect(guess)
-count = 0
-while guess != correct and count < 2:
-    print("sorry that's a wrong guess")
+count= 0
+while guess != correct and count <2:
+    print("YOU'RE WRONG! TRY AGAIN BEFORE YOU LOSE HER!")
     guess = input("Guess the connecting airport: ")
-    count+=1
+    count += 1
 if guess == correct:
-    print("THAT'S CORRECT")
+    print("YAYYY TRUE LOVE STORY")
 else:
-    print("YOU LOSTT!!")
+    print("YOU WILL NEVER SEE HER AGAIN!!")
+    print("Choose what you want to do.")
+
+main_page()
