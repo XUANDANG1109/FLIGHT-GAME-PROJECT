@@ -43,6 +43,13 @@ Choose your favorite country and fly around the beautiful big open world and com
 #### Functions:
 Listed below are all the funtctions that were created for the game:
 
+Database:
+```
+- dest
+- connecting
+- ran_connect
+```
+
 Menu:
 ```
 - main_page
@@ -51,14 +58,6 @@ Menu:
 Decisions:
 ```
 - dest
-```
-
-Database:
-```
-- print_list
-- dest
-- connecting
-- ran_connect
 ```
 
 Prints:
