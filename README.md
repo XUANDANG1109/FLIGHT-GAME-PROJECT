@@ -112,4 +112,4 @@ Prints:
 We created a new database from the existing one and removed a lot of unnecessary information. This made the database faster. All functions created were run through the PyCharm project. 
 
 ### Link:
-https://www.canva.com/design/DAFOo0VKGSQ/iLxL98ubMpOPE9hE4M3vEA
+https://www.canva.com/design/DAFOo0VKGSQ/iLxL98ubMpOPE9hE4M3vEA/view?utm_content=DAFOo0VKGSQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
