@@ -4,6 +4,7 @@
 - Hallikas Jenni
 - Chauhan Rashi
 - Dang Xuan
+
 ## Contents:
 - [Introduction](https://github.com/XUANDANG1109/FLIGHT-GAME-PROJECT#introduction)
 - [Vision](https://github.com/XUANDANG1109/FLIGHT-GAME-PROJECT#Vision)
@@ -109,3 +110,6 @@ Prints:
 
 ### Quality requirements:
 We created a new database from the existing one and removed a lot of unnecessary information. This made the database faster. All functions created were run through the PyCharm project. 
+
+### Link:
+(https://www.canva.com/design/DAFOo0VKGSQ/iLxL98ubMpOPE9hE4M3vEA/edit)
