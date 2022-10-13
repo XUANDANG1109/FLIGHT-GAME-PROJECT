@@ -13,10 +13,11 @@
 
 ### Introduction:
 Final destination game project built using Python, Database SQL.
+The purpose of game is to create a game that is entertaining, fun, and a little bit of your luck
 
 ### Vision:
 - The world at your fingertips. It is a game, Let's test your luck with this really simple game!.
-- The aim of game is to create a game that is entertaining, fun, and a little bit of your luck. 
+- Challenge yourself and enjoy hours of fun with this game.
 
 ### Story:
 The player is a guy who has a very beautiful girlfriend. Both live in Finland. The guy had to go to work, so she made the decision to travel alone to the destination she wanted to go. Unfortunately, while traveling, he lost contact with his girlfriend while in transit. The boyfriend only knows where she wants to travel, but he does not know where she will transit. In order to determine where she went, the boyfriend needed to guess the airport she was transiting through. The boyfriend has only three chances to figure out where the girl has traveled. After 3 wrong guesses, the couple will not see each other forever 💔, they are not destined for each other. If the guess is correct, the ending will be happy, the couple will get married 💕💕 and have children.... 
@@ -35,8 +36,16 @@ The user is able to do two things:
 - Choose where they travel to
 - Choose if they wish to transit they are currently in.
 
-#### Setting:
-Final destination game is set in present day.
+#### Features:
+
+- Final destination game is set in present day.
+- Use English.
+- More than 30 countries to choose from.
+- Frequent application updates!
+
+### Tips:
+Final destination game requires an Internet connection to complete the missions. Turn on Wifi or be sure to have a data plan.
+
 
 ### Functional Requirements:
 Choose your favorite country and fly around the beautiful big open world and complete challenging missions in this realistic game. The success of a player is is a stroke of luck.
