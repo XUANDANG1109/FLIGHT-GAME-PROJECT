@@ -20,7 +20,7 @@ The purpose of game is to create a game that is entertaining, fun, and a little 
 - Challenge yourself and enjoy hours of fun with this game.
 
 ### Story:
-The player is a guy who has a very beautiful girlfriend. Both live in Finland. The guy had to go to work, so she made the decision to travel alone to the destination she wanted to go. Unfortunately, while traveling, he lost contact with his girlfriend while travelling. The boyfriend only knows where she wants to travel, but he does not know where she will transit. In order to determine where she went, the boyfriend needed to guess the airport she was transiting through. The boyfriend has only three chances to figure out where the girl has traveled. After 3 wrong guesses, the couple will not see each other forever 💔, they are not destined for each other. If the guess is correct, the ending will be happy, the couple will get married 💕💕 and have children.... 
+The player is a guy who has a very beautiful girlfriend. Both live in Finland. The guy had to go to work, so she made the decision to travel alone to the destination she wanted to go. Unfortunately, while traveling, he lost contact with his girlfriend while travelling. The boyfriend only knows where she wants to travel, but he does not know where she will transit. In order to determine where she went, the boyfriend needed to guess the airport she was transiting through. The boyfriend has only three chances to figure out where the girl has traveled. After 3 wrong guesses, the couple will not see each other forever 💔, they are not destined for each other. On the contrary, if the guess is correct, the ending will be happy, the couple will get married 💕💕 and have children.... 
 
 
 ### Flowchart:
